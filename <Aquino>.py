@@ -14,7 +14,7 @@ class Contact:
         return "Date Added: " + dateadded
 
 
-class Playlist:
+class Phonebook:
     def __init__(self, contactlist):
         self.__contactlist = []
 
